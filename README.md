@@ -36,9 +36,7 @@ simple mouse click - Ideal for gaming, streaming, or productivity
 
 ### 🛠️ Create Your Own Plugins
 
-Developers can easily create custom plugins using the simple plugin
-structure provided. A dedicated file in the repository explains the
-process step-by-step.
+Creating custom plugins in Ignite Panel is simple and straightforward. The process is designed to be easy even for beginners, and full instructions are provided in the [Plugin Development Guide](PLUGIN_DEVELOPMENT_GUIDE.md).
 
 ## 🌍 Language Support
 
