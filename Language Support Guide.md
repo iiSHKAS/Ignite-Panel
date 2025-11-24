@@ -5,7 +5,7 @@ This guide explains how to add support for a new language to the application by 
 ## 1. Creating the Language File
 
 * **Location:** The language file should be placed in the designated translations folder for the application.
-* **File Name:** Create a new file with the **`.json`** extension. You can name it after the language (e.g., `arabic.json`) or any other name you prefer.
+* **File Name:** Create a new file with the **`.json`** extension. You can name it after the language (e.g., `ar.json`, `es.json`, `en.json`) or any other name you prefer.
 
 ---
 
@@ -20,7 +20,7 @@ At the beginning of the file, include the following core options:
 | Key | Description | Possible Values / Notes |
 | :--- | :--- | :--- |
 | **`name`** | The name of the language that will appear to the user within the program. | Example: `"Arabic"` |
-| **`translator`** | The name of the translator (Optional). | Example: `"Translator Name"` |
+| **`translator`** | The name of the translator (Optional). | Example: `"SHKAS"` |
 | **`rtl`** | Defines the text direction (Right-to-Left). | **`true`** for RTL languages (like Arabic), and **`false`** otherwise. |
 
 **Definition Structure Example (JSON Code Block):**
