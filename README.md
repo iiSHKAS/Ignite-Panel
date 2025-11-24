@@ -62,3 +62,13 @@ translations in a simple way.
 
 Contributions are welcome! Whether it's adding a new language, improving
 plugins, creating new ones, reporting bugs, or suggesting features.
+
+
+
+
+
+
+
+## Downloads
+#### GitHub (All Releases)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()  
