@@ -21,19 +21,16 @@ At the beginning of the file, include the following core options:
 | :--- | :--- | :--- |
 | **`name`** | The name of the language that will appear to the user within the program. | Example: `"Arabic"` |
 | **`translator`** | The name of the translator (Optional). | Example: `"Translator Name"` |
-| **`rtl`** | Defines the text direction. | **`true`** for Right-to-Left languages (like Arabic), and **`false`** otherwise. |
+| **`rtl`** | Defines the text direction (Right-to-Left). | **`true`** for RTL languages (like Arabic), and **`false`** otherwise. |
 
-**Definition Structure Example:**
+**Definition Structure Example (JSON Code Block):**
 
-
-
-
-
-```json
+```
 {
   "name": "Language Name",
   "translator": "Translator (Optional)",
   "rtl": false 
+```
 2.2. The Strings Section ("strings")
 Following the definition section, you must add the "strings" key, which holds all the texts that need translation within the program.
 
@@ -44,11 +41,12 @@ Key: This is the original English text (this must not be changed).
 Value: This is the translated text for the new language (fill this part with the translation).
 
 3. The Complete JSON File (Template)
-The following template shows the complete structure of the language file. Please fill in the Value part (the text after the colon :) with the translation for your new language.
+The following template shows the complete structure of the language file. Please fill in the Value part (the text after the colon : ) with the translation for your new language.
 
 Important Note: You must keep the Keys (the text appearing before the colon) exactly as they are, as they represent the original strings in the application.
 
-JSON
+
+```JSON
 
 {
   "name": "New Language Name",
