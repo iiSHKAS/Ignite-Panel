@@ -42,7 +42,8 @@ Creating custom plugins in Ignite Panel is simple and straightforward. The proce
 
 Ignite Panel currently supports: - English - Arabic - Spanish
 
-[You can help add more languages! A separate file explains how to add new translations in a simple way](Language Support Guide.md)
+You can help add more languages! Read the [Language Support Guide](Language%20Support%20Guide.md) for more details.
+
 ## 📸 Screenshots
 
 ![Ignite Panel Main](Screenshots/IgnitePanel_main.png)  
