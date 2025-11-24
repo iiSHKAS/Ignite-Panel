@@ -47,6 +47,11 @@ translations in a simple way.
 
 ## 📸 Screenshots
 
+![Ignite Panel Main](Screenshots/IgnitePanel_main.png)  
+![Ignite Panel Main 2](Screenshots/IgnitePanel_main2.png)  
+![Quick Board Overlay](Screenshots/QuickBoard.gif)
+
+
 > Add your application screenshots here.
 
 ## 🚀 Getting Started
