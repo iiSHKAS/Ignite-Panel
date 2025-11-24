@@ -1,6 +1,6 @@
 # Ignite Panel
 
-![Project Banner](#)
+![Project Banner](icons/IgnitePanel.ico)
 
 **Ignite Panel** is a powerful and customizable **shortcut control
 panel** designed to help you automate actions, streamline your workflow,
