@@ -52,8 +52,6 @@ translations in a simple way.
 ![Quick Board Overlay](Screenshots/QuickBoard.gif)
 
 
-> Add your application screenshots here.
-
 ## 🚀 Getting Started
 
 1. [Download the latest release](https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe)
