@@ -53,16 +53,11 @@ translations in a simple way.
 
 ## 🚀 Getting Started
 
-1.  Download the latest release
-2.  Install or run the portable version
-3.  Launch Ignite Panel
-4.  Start adding plugins and creating your workflow
+1. [Download the latest release](https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe)
+2.  Launch Ignite Panel
+3.  Start adding actions and creating your workflow
 
 ## 🤝 Contributing
 
 Contributions are welcome! Whether it's adding a new language, improving
 plugins, creating new ones, reporting bugs, or suggesting features.
-
-## 📄 License
-
-Add your license information here.
