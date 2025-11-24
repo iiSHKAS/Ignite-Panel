@@ -13,12 +13,23 @@ for creating, editing, and triggering actions using your **keyboard**,
 ### 🧩 Built-in Plugins
 
 Ignite Panel comes with a wide range of ready-to-use plugins. One of the
-key plugins is the **Discord Plugin**, which includes actions such as: -
-Mute - Deafen - Join Voice Channel - Share Screen - Game Share Screen -
+key plugins is the **Discord Plugin**, which includes actions such as: 
+- Mute  
+- Deafen  
+- Join Voice Channel  
+- Share Screen  
+- Game Share Screen  
 ...and more!
+
+### 🔀 Multi Action
+
+The **Multi Action** feature allows you to combine multiple actions into a 
+single button, executing them sequentially and quickly. This is independent 
+from any specific plugin and can be used with any action inside Ignite Panel.
 
 Additional plugins can be discovered and enabled directly inside the
 application.
+
 
 ### 🎛️ Easy Action Setup
 
