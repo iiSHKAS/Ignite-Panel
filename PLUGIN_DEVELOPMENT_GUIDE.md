@@ -1,4 +1,4 @@
-# SDM Plugin Development Guide
+# Ignite Panel Development Guide
 
 This guide focuses only on how to create a plugin: structure, essential definitions, the two settings patterns, a blank skeleton you can copy, and advanced controls for button icon/name. It is organized to be crystal‑clear for beginners.
 
