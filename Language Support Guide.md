@@ -389,7 +389,15 @@ Important Note: You must keep the Keys (the text appearing before the colon) exa
     "Token saved successfully!": "",
     "Warning: Could not save token": "",
     "Discord authentication failed": "",
-    "Discord connection established with persistent token": ""
+    "Discord connection established with persistent token": "",
+    "Browser": "",
+    "Default": "",
+    "Open Mode": "",
+    "Privacy Mode": "",
+    "Same Window": "",
+    "New Window": "",
+    "Private/Incognito": "",
+    "Normal": ""
   }
 }
 
