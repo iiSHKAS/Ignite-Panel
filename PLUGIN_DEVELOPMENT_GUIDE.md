@@ -64,11 +64,13 @@ ADDON_INFO = {
     "actions": [
         {
             "name": "Action 1",          # Name of the first action
+            "type": "MyPlugin",          # Must match the plugin name (for categorization)
             "icon": "action1_icon.svg",  # Filename only (File must be in %appdata%/Ignite Panel/icons)
             "description": "Description for action 1"
         },
         {
             "name": "Action 2",          # Name of the second action
+            "type": "MyPlugin",          # Must match the plugin name
             "icon": "action2_icon.svg",  # Filename only (File must be in %appdata%/Ignite Panel/icons)
             "description": "Description for action 2"
         }
