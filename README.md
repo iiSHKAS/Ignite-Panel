@@ -1,74 +1,110 @@
 # Ignite Panel
 
-![Project Banner](icons/IgnitePanel.ico)
+<p align="center">
+  <img src="icons/IgnitePanel.ico" alt="Ignite Panel Banner" width="250"/>
+</p>
 
-**Ignite Panel** is a powerful and customizable **shortcut control
-panel** designed to help you automate actions, streamline your workflow,
-and control applications with ease. It provides an intuitive interface
-for creating, editing, and triggering actions using your **keyboard**,
-**mouse**, or a combination of both.
+**Ignite Panel** is a powerful customizable **control panel and automation system** designed to help you automate actions, streamline your workflow, and control applications with ease.
+
+It provides an intuitive interface for creating, editing, and triggering actions using your **keyboard**, **mouse**, or both — and even from your Android phone.
+
+Ignite Panel acts as a full **software alternative to Stream Deck and Macro Deck**, allowing you to create programmable buttons and execute complex actions instantly.
+
+---
 
 ## 🔥 Features
 
-### 🧩 Built-in Plugins
+### 🧩 Plugins
 
-Ignite Panel comes with a wide range of ready-to-use plugins. One of the
-key plugins is the **Discord Plugin**, which includes actions such as: 
-- Mute  
-- Deafen  
-- Join Voice Channel  
-- Share Screen  
-- Game Share Screen  
-...and more!
+Ignite Panel includes **13 official plugins** covering system control, media, streaming tools, and application management.
+
+When the program is first launched, **6 plugins are available by default**.  
+The remaining plugins can be downloaded directly from inside the application.
+
+🛠️ **A Plugin Development Guide (for developers who want to create their own plugins) will be released next week.**
+
+---
 
 ### 🔀 Multi Action
 
-The **Multi Action** feature allows you to combine multiple actions into a 
-single button, executing them sequentially and quickly. This is independent 
-from any specific plugin and can be used with any action inside Ignite Panel.
+Combine multiple actions into a single button and execute them sequentially and instantly.  
+This feature works with any action from any plugin.
 
-Additional plugins can be discovered and enabled directly inside the
-application.
-
+---
 
 ### 🎛️ Easy Action Setup
 
-The program includes a clean and simple interface allowing you to: - Add
-new actions - Configure each action's settings - Assign a trigger button
-(keyboard, mouse, or both) - Organize your shortcuts in a structured
-panel
+The program includes a clean and simple interface allowing you to:
+
+- Add new actions
+- Configure action settings
+- Assign a trigger (keyboard, mouse, or both)
+- Organize your shortcuts in a structured panel
+
+---
+
+### 🎛️ Multi-State Buttons
+
+Each button supports **three interaction states**:
+
+- Click
+- Double Click
+- Long Press
+
+Each state can execute a completely different action.
+
+---
 
 ### ⚡ Quick Board Overlay
 
-Ignite Panel includes a special feature called **Quick Board**: -
-Displays all your configured buttons in a single overlay - Can be shown
-or hidden using a custom shortcut - Lets you execute any action with a
-simple mouse click - Ideal for gaming, streaming, or productivity
+**Quick Board** is an overlay window that displays your buttons directly on the screen.
 
-### 🛠️ Create Your Own Plugins
+- Appears above any application or game
+- Toggle using a single shortcut
+- Execute actions using the mouse
+- No need to remember many hotkeys
 
-Creating custom plugins in Ignite Panel is simple and straightforward. The process is designed to be easy even for beginners, and full instructions are provided in the [Plugin Development Guide](PLUGIN_DEVELOPMENT_GUIDE.md).
+Perfect for gaming, streaming, or productivity workflows.
+
+---
+
+### 📱 Phone Control
+
+Ignite Panel includes an Android companion app allowing you to control your PC remotely.
+
+You can:
+- View your buttons
+- Trigger actions wirelessly
+- Control your setup remotely
+
+---
 
 ## 🌍 Language Support
 
-Ignite Panel currently supports: - English - Arabic - Spanish
+Ignite Panel currently supports **25 languages**.
 
-You can help add more languages! Read the [Language Support Guide](Language%20Support%20Guide.md) for more details.
+---
 
 ## 📸 Screenshots
 
-![Ignite Panel Main](Screenshots/IgnitePanel_main.png)  
-![Ignite Panel Main 2](Screenshots/IgnitePanel_main2.png)  
-![Quick Board Overlay](Screenshots/QuickBoard.gif)
+### Main Interface
+![Main UI](Screenshots/IgnitePanel_main.png)
 
+### Quick Board Overlay
+![Quick Board](Screenshots/QuickBoard.gif)
+
+---
 
 ## 🚀 Getting Started
 
-1. [Download the latest release](https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe)
-2.  Launch Ignite Panel
-3.  Start adding actions and creating your workflow
+1. Download the latest release  
+https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe
+
+2. Launch Ignite Panel  
+3. Start creating buttons and automating your workflow
+
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether it's adding a new language, improving
-plugins, creating new ones, reporting bugs, or suggesting features.
+Contributions are welcome! Whether it's improving plugins, creating new ones, reporting bugs, or suggesting features.
