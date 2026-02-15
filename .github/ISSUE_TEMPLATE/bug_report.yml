@@ -1,0 +1,60 @@
+name: "🐛 Bug Report"
+description: "Report a bug to help us improve Ignite Panel"
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the details below.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Bug Description"
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Where did the bug occur?"
+      options:
+        - "Windows Application"
+        - "Android App"
+        - "QuickBoard"
+        - "Plugin (Specific)"
+        - "API"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Reproduce"
+      description: "How can we recreate this issue?"
+      placeholder: "1. Open the app\n2. Click on...\n3. See error"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "Program Version"
+      description: "Which version of Ignite Panel are you using?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: "System Environment"
+      description: "e.g., Windows 10, Android 13, Python version (if applicable)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots or Logs"
+      description: "Drag and drop images or paste logs here."
