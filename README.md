@@ -21,7 +21,21 @@ Ignite Panel includes **13 official plugins** covering system control, media, st
 When the program is first launched, **6 plugins are available by default**.  
 The remaining plugins can be downloaded directly from inside the application.
 
-🛠️ **A Plugin Development Guide (for developers who want to create their own plugins) will be released next week.**
+---
+
+### 🧑‍💻 Create Your Own Plugins
+
+Ignite Panel is designed to be **fully extensible**. Developers can create their own plugins to add new actions and integrations.
+
+If you want to build a plugin for Ignite Panel, follow the step-by-step guide below:
+
+➡️ **[Plugin Creation Guide](PLUGIN_CREATION_GUIDE.md)**
+
+The guide explains how to:
+- Set up the plugin structure
+- Create custom actions
+- Integrate them with Ignite Panel
+- Build and test your plugin
 
 ---
 
