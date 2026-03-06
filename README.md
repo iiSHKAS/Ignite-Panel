@@ -32,6 +32,7 @@ If you want to build a plugin for Ignite Panel, follow the step-by-step guide be
 ➡️ **[Plugin Creation Guide](PLUGIN_CREATION_GUIDE.md)**
 
 The guide explains how to:
+
 - Set up the plugin structure
 - Create custom actions
 - Integrate them with Ignite Panel
@@ -61,9 +62,9 @@ The program includes a clean and simple interface allowing you to:
 
 Each button supports **three interaction states**:
 
-- Click
-- Double Click
-- Long Press
+- Click  
+- Double Click  
+- Long Press  
 
 Each state can execute a completely different action.
 
@@ -87,6 +88,7 @@ Perfect for gaming, streaming, or productivity workflows.
 Ignite Panel includes an Android companion app allowing you to control your PC remotely.
 
 You can:
+
 - View your buttons
 - Trigger actions wirelessly
 - Control your setup remotely
@@ -111,11 +113,16 @@ Ignite Panel currently supports **25 languages**.
 
 ## 🚀 Getting Started
 
-1. Download the latest release  
+### Download Ignite Panel (PC)
+
+Download the latest release:  
 https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe
 
-2. Launch Ignite Panel  
-3. Start creating buttons and automating your workflow
+### Download the Mobile Companion App (Android Only)
+
+The mobile controller for Ignite Panel is available here:  
+
+https://github.com/iiSHKAS/IgnitePanel-companion-app/releases/latest
 
 ---
 
