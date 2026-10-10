@@ -1,131 +1,73 @@
-# Ignite Panel
+<h1 align="center">Ignite Panel</h1>
 
 <p align="center">
-  <img src="icons/IgnitePanel.ico" alt="Ignite Panel Banner" width="250"/>
+  A customizable desktop control panel for shortcuts, applications, and automation.
 </p>
 
-**Ignite Panel** is a powerful customizable **control panel and automation system** designed to help you automate actions, streamline your workflow, and control applications with ease.
+<p align="center">
+  <strong>Windows</strong> &nbsp; / &nbsp; Linux (Coming Soon) &nbsp; / &nbsp; Android Companion &nbsp; / &nbsp; 25 Languages
+</p>
 
-It provides an intuitive interface for creating, editing, and triggering actions using your **keyboard**, **mouse**, or both — and even from your Android phone.
+<p align="center">
+  <a href="https://github.com/iiSHKAS/Ignite-Panel/releases/latest"><strong>Download for Windows</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/iiSHKAS/IgnitePanel-companion-app/releases/latest">Get Android Companion</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="PLUGIN_CREATION_GUIDE.md">Developer Guide</a>
+</p>
 
-Ignite Panel acts as a full **software alternative to Stream Deck and Macro Deck**, allowing you to create programmable buttons and execute complex actions instantly.
+<br>
 
----
+<p align="center">
+  <img src="Screenshots/IgnitePanel_main.png" alt="Ignite Panel desktop interface" width="100%">
+</p>
 
-## 🔥 Features
+**Ignite Panel** is a software alternative to Stream Deck and Macro Deck. Create programmable buttons, configure their actions, and control your setup using your keyboard, mouse, or Android phone.
 
-### 🧩 Plugins
+## A Panel Built Around Your Workflow
 
-Ignite Panel includes **13 official plugins** covering system control, media, streaming tools, and application management.
+Set up individual actions or combine them into sequences. Organize your buttons and choose how each one responds.
 
-When the program is first launched, **6 plugins are available by default**.  
-The remaining plugins can be downloaded directly from inside the application.
+- **Action configuration** — Add actions, adjust their settings, and assign keyboard or mouse triggers.
+- **Multi Action** — Execute a sequence of actions from different plugins with one button.
+- **Multi-State Buttons** — Assign separate actions to click, double-click, and long press.
 
----
+## Plugins & Integrations
 
-### 🧑‍💻 Create Your Own Plugins
+Access **13 official plugins** covering system control, media, streaming tools, and application management.
 
-Ignite Panel is designed to be **fully extensible**. Developers can create their own plugins to add new actions and integrations.
+**6 plugins are available by default** on first launch. Install the remaining plugins directly from within Ignite Panel.
 
-If you want to build a plugin for Ignite Panel, follow the step-by-step guide below:
+Want to add your own integration? The [Plugin Creation Guide](PLUGIN_CREATION_GUIDE.md) covers plugin structure, custom actions, integration, and testing.
 
-➡️ **[Plugin Creation Guide](PLUGIN_CREATION_GUIDE.md)**
+## Quick Board
 
-The guide explains how to:
+Access your buttons through an on-screen overlay above applications and games. Toggle **Quick Board** with a single shortcut, then use your mouse to trigger actions without returning to the main window.
 
-- Set up the plugin structure
-- Create custom actions
-- Integrate them with Ignite Panel
-- Build and test your plugin
+<p align="center">
+  <img src="Screenshots/QuickBoard.gif" alt="Quick Board showing programmable buttons over the desktop" width="800">
+</p>
 
----
+## Android Companion
 
-### 🔀 Multi Action
+Turn your Android phone into a wireless controller for your PC. View your configured buttons and trigger their actions remotely.
 
-Combine multiple actions into a single button and execute them sequentially and instantly.  
-This feature works with any action from any plugin.
+**[Download the companion app →](https://github.com/iiSHKAS/IgnitePanel-companion-app/releases/latest)**
 
----
+## Get Started
 
-### 🎛️ Easy Action Setup
+1. Download **IgnitePanel.exe** from the [latest Windows release](https://github.com/iiSHKAS/Ignite-Panel/releases/latest).
+2. Launch Ignite Panel and configure your buttons.
+3. Assign triggers, combine actions, or install additional plugins to build your setup.
 
-The program includes a clean and simple interface allowing you to:
-
-- Add new actions
-- Configure action settings
-- Assign a trigger (keyboard, mouse, or both)
-- Organize your shortcuts in a structured panel
-
----
-
-### 🎛️ Multi-State Buttons
-
-Each button supports **three interaction states**:
-
-- Click  
-- Double Click  
-- Long Press  
-
-Each state can execute a completely different action.
+Ignite Panel supports **25 interface languages**.
 
 ---
 
-### ⚡ Quick Board Overlay
+## Support & Development
 
-**Quick Board** is an overlay window that displays your buttons directly on the screen.
+Have a question, found a bug, or want to contribute?
 
-- Appears above any application or game
-- Toggle using a single shortcut
-- Execute actions using the mouse
-- No need to remember many hotkeys
-
-Perfect for gaming, streaming, or productivity workflows.
-
----
-
-### 📱 Phone Control
-
-Ignite Panel includes an Android companion app allowing you to control your PC remotely.
-
-You can:
-
-- View your buttons
-- Trigger actions wirelessly
-- Control your setup remotely
-
----
-
-## 🌍 Language Support
-
-Ignite Panel currently supports **25 languages**.
-
----
-
-## 📸 Screenshots
-
-### Main Interface
-![Main UI](Screenshots/IgnitePanel_main.png)
-
-### Quick Board Overlay
-![Quick Board](Screenshots/QuickBoard.gif)
-
----
-
-## 🚀 Getting Started
-
-### Download Ignite Panel (PC)
-
-Download the latest release:  
-https://github.com/iishkas/Ignite-Panel/releases/latest/download/IgnitePanel.exe
-
-### Download the Mobile Companion App (Android Only)
-
-The mobile controller for Ignite Panel is available here:  
-
-https://github.com/iiSHKAS/IgnitePanel-companion-app/releases/latest
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether it's improving plugins, creating new ones, reporting bugs, or suggesting features.
+- **[Issues & Suggestions](https://github.com/iiSHKAS/Ignite-Panel/issues)** — Report problems and propose features.
+- **[Plugin Development](PLUGIN_CREATION_GUIDE.md)** — Create new actions and integrations.
+- **[Release History](https://github.com/iiSHKAS/Ignite-Panel/releases)** — Browse available versions and release notes.
